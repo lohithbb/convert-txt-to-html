@@ -1,2 +1,2 @@
 # convert-txt-to-html
-Shell scripts approach to the conversion of text files to HTML
+Using shell scripts to convert text files to HTML
